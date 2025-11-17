@@ -1,0 +1,198 @@
+.header {
+    background-image: url('../img/bg-masthead.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    height: 100vh;
+}
+
+.pone {
+    color: #ffff;
+    font-size: 1.1rem;
+}
+
+.hone {
+    color: #ffff;
+    font-size: 3.5rem;
+}
+
+.hrone {
+    color: #f4623a;
+}
+
+.container {
+
+    text-align: center;
+    /* padding-top: 10rem; */
+}
+
+.nav-link {
+    color: #ffff;
+}
+
+.navbar-brand {
+    color: #ffff;
+}
+
+.btn {
+    color: #ffff;
+    font-size: 1.3rem;
+
+
+}
+
+.btn-light {
+    background-color: #f4623a;
+
+}
+
+.ion {
+    font-size: 4rem;
+    color: #f4623a;
+}
+
+.page-section {
+    height: 75vh;
+    background-color: #f4623a;
+}
+
+.htwo {
+    color: #ffff;
+    font-size: 2.5rem;
+}
+
+.ptwo {
+    color: #ffff;
+    font-size: 1.1rem;
+}
+
+.ion1 {
+    font-size: 4rem;
+    color: #ffff;
+
+}
+
+.btn1 {
+    color: black;
+}
+
+.btn-primary {
+    background-color: #fff;
+    font-size: 1.5rem;
+}
+
+.Service {
+    height: 70vh;
+
+}
+
+.ion2 {
+    color: black;
+}
+
+.divider {
+    height: 0.2rem;
+    max-width: 3.25rem;
+    margin: 1.5rem auto;
+    background-color: #f4623a;
+    opacity: 1;
+}
+
+
+.p3 {
+    color: #6c757d;
+    font-size: 1.1rem;
+}
+
+.ion2 {
+    color: #f4623a;
+    font-size: 2.8rem;
+}
+
+.container1 {
+    align-items: center;
+    text-align: center;
+    padding-top: 8rem;
+    align-content: center;
+}
+
+.ion3 {
+    font-size: 4rem;
+    color: #f4623a;
+}
+
+
+
+.img1 {
+    width: 28.9rem;
+}
+
+.portfolio {
+    width: 82rem;
+
+}
+
+.download-page {
+    background-color: #202020;
+    height: 50vh;
+}
+
+.h3 {
+    color: #fff;
+    font-size: 2.5rem;
+    padding-top: 8.5rem;
+}
+
+.sign-up {
+    height: 100vh;
+}
+
+.h4 {
+    font-size: 2rem;
+}
+
+.p4 {
+    font-size: 1.1rem;
+}
+
+.btn4 {
+    color: #ffff;
+    align-items: center;
+    text-align: center;
+    align-content: center;
+}
+
+.btn-primary1 {
+    color: #ffff;
+    background-color: #f4623a;
+    font-size: 1.5rem;
+}
+
+.ion4 {
+    font-size: 2.5rem;
+    padding-top: 4rem;
+}
+
+.footer {
+    background-color: rgba(236, 240, 241, 1.0);
+    height: 10vh;
+}
+
+.p6 {
+    padding-top: 1.8rem;
+}
+.scroll-to-top {
+
+    color: rgba(55, 66, 250, 1.0);
+    font-size: 2.5rem;
+    width: 100px;
+    height: 100px;
+    line-height: 100px;
+    text-align: center;
+    border-radius: 50%;
+    position: fixed;
+    right: 0;
+    bottom: 0;
+    cursor: pointer;
+    transform: translateY(40px);
+}
